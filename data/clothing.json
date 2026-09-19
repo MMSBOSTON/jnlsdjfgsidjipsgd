@@ -1,0 +1,178 @@
+[
+  {
+    "id": "f-accs-majestic-chain-cross",
+    "name": "Black chain with a massive cross",
+    "category": "accs",
+    "gender": "female",
+    "dlc": "majestic_custom",
+    "pack": "mp_f_freemode_01_majestic_custom",
+    "slot": "accs_000_u",
+    "tags": ["цепь", "крест", "эксклюзив"],
+    "files": ["accs_000_u.ydd", "accs_diff_000_a_uni.ytd"]
+  },
+  {
+    "id": "f-accs-majestic-octopus",
+    "name": "White Octopus Pendant",
+    "category": "accs",
+    "gender": "female",
+    "dlc": "majestic_custom",
+    "pack": "mp_f_freemode_01_majestic_custom",
+    "slot": "accs_001_u",
+    "tags": ["подвеска", "осьминог", "эксклюзив"],
+    "files": ["accs_001_u.ydd", "accs_diff_001_a_uni.ytd"]
+  },
+  {
+    "id": "f-jbib-majestic-fluffy-scarf",
+    "name": "White fluffy scarf with dark pockets",
+    "category": "jbib",
+    "gender": "female",
+    "dlc": "majestic_custom",
+    "pack": "mp_f_freemode_01_majestic_custom",
+    "slot": "jbib_000_u",
+    "tags": ["шарф", "пушистый"],
+    "files": ["jbib_000_u.ydd", "jbib_diff_000_a_uni.ytd"]
+  },
+  {
+    "id": "f-task-majestic-guitar",
+    "name": "Pink Cyberpunk Guitar (Luminoforo)",
+    "category": "task",
+    "gender": "female",
+    "dlc": "majestic_custom",
+    "pack": "mp_f_freemode_01_majestic_custom",
+    "slot": "task_000_u",
+    "tags": ["гитара", "светящаяся", "эксклюзив"],
+    "files": ["task_000_u.ydd", "task_diff_000_a_uni.ytd"]
+  },
+  {
+    "id": "f-jbib-majestic-set2120",
+    "name": "Clothing set #2120",
+    "category": "jbib",
+    "gender": "female",
+    "dlc": "majestic_custom",
+    "pack": "mp_f_freemode_01_majestic_custom",
+    "slot": "jbib_015_u",
+    "tags": ["сет", "эксклюзив"],
+    "files": ["jbib_015_u.ydd", "jbib_diff_015_a_uni.ytd"]
+  },
+  {
+    "id": "m-accs-majestic-chain-cross",
+    "name": "Black chain with a massive cross",
+    "category": "accs",
+    "gender": "male",
+    "dlc": "majestic_custom",
+    "pack": "mp_m_freemode_01_majestic_custom",
+    "slot": "accs_000_u",
+    "tags": ["цепь", "крест", "эксклюзив"],
+    "files": ["accs_000_u.ydd", "accs_diff_000_a_uni.ytd"]
+  },
+  {
+    "id": "m-phead-majestic-dragon-cap",
+    "name": "Weißer Dornenkranz",
+    "category": "p_head",
+    "gender": "male",
+    "dlc": "majestic_custom",
+    "pack": "mp_m_freemode_01_majestic_custom",
+    "slot": "p_head_000",
+    "tags": ["головной убор", "эксклюзив"],
+    "files": ["p_head_000.ydd", "p_head_diff_000_a.ytd"]
+  },
+  {
+    "id": "m-phead-majestic-pumpkin-band",
+    "name": "R.I.P. Kürbis-Stirnband (Luminoforo)",
+    "category": "p_head",
+    "gender": "male",
+    "dlc": "majestic_custom",
+    "pack": "mp_m_freemode_01_majestic_custom",
+    "slot": "p_head_003",
+    "tags": ["повязка", "хэллоуин", "светящаяся"],
+    "files": ["p_head_003.ydd", "p_head_diff_003_a.ytd"]
+  },
+  {
+    "id": "m-phead-majestic-shrek-ears",
+    "name": "Die grünen Ohren von Shrek",
+    "category": "p_head",
+    "gender": "male",
+    "dlc": "majestic_custom",
+    "pack": "mp_m_freemode_01_majestic_custom",
+    "slot": "p_head_007",
+    "tags": ["уши", "шрек", "эксклюзив"],
+    "files": ["p_head_007.ydd", "p_head_diff_007_a.ytd"]
+  },
+  {
+    "id": "m-accs-majestic-shrek-ears",
+    "name": "Grüne Ohren von Shrek",
+    "category": "accs",
+    "gender": "male",
+    "dlc": "majestic_custom",
+    "pack": "mp_m_freemode_01_majestic_custom",
+    "slot": "accs_003_u",
+    "tags": ["уши", "шрек", "эксклюзив"],
+    "files": ["accs_003_u.ydd", "accs_diff_003_a_uni.ytd"]
+  },
+  {
+    "id": "f-phead-majestic-bunny-cap",
+    "name": "Pink Mütze mit Hasenohren",
+    "category": "p_head",
+    "gender": "female",
+    "dlc": "majestic_custom",
+    "pack": "mp_f_freemode_01_majestic_custom",
+    "slot": "p_head_001",
+    "tags": ["шапка", "уши", "розовая"],
+    "files": ["p_head_001.ydd", "p_head_diff_001_a.ytd"]
+  },
+  {
+    "id": "f-phead-majestic-devil-horns",
+    "name": "Rote Teufelshörner (Luminoforo)",
+    "category": "p_head",
+    "gender": "female",
+    "dlc": "majestic_custom",
+    "pack": "mp_f_freemode_01_majestic_custom",
+    "slot": "p_head_005",
+    "tags": ["рога", "красные", "светящиеся"],
+    "files": ["p_head_005.ydd", "p_head_diff_005_a.ytd"]
+  },
+  {
+    "id": "m-jbib-majestic-striped-hoodie",
+    "name": "Разноцветная полосатая толстовка",
+    "category": "jbib",
+    "gender": "male",
+    "dlc": "majestic_custom",
+    "pack": "mp_m_freemode_01_majestic_custom",
+    "slot": "jbib_003_u",
+    "tags": ["толстовка", "полосатая"],
+    "files": ["jbib_003_u.ydd", "jbib_diff_003_a_uni.ytd"]
+  },
+  {
+    "id": "m-lowr-majestic-gray-jeans",
+    "name": "Серые узкие джинсы с карманами",
+    "category": "lowr",
+    "gender": "male",
+    "dlc": "majestic_custom",
+    "pack": "mp_m_freemode_01_majestic_custom",
+    "slot": "lowr_002_u",
+    "tags": ["джинсы", "серые"],
+    "files": ["lowr_002_u.ydd", "lowr_diff_002_a_uni.ytd"]
+  },
+  {
+    "id": "m-feet-majestic-la-sneakers",
+    "name": "Синие кроссовки LA",
+    "category": "feet",
+    "gender": "male",
+    "dlc": "majestic_custom",
+    "pack": "mp_m_freemode_01_majestic_custom",
+    "slot": "feet_004_u",
+    "tags": ["кроссовки", "синие"],
+    "files": ["feet_004_u.ydd", "feet_diff_004_a_uni.ytd"]
+  },
+  {
+    "id": "m-phead-majestic-fur-hat",
+    "name": "Бежевая меховая шапка с ушами",
+    "category": "p_head",
+    "gender": "male",
+    "dlc": "majestic_custom",
+    "pack": "mp_m_freemode_01_majestic_custom",
+    "slot": "p_head_009",
+    "tags": ["шапка", "мех", "уши"],
+    "files": ["p_head_009.ydd", "p_head_diff_009_a.ytd"]
+  }
+]
